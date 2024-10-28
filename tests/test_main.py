@@ -1,5 +1,5 @@
-from poseidon import PoseidonHash
-from merkle_tree import MerkleTree
+from circomlibpy.poseidon import PoseidonHash
+from circomlibpy.merkle_tree import MerkleTree
 
 
 def test_poseidon():

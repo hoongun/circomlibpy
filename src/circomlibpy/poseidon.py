@@ -1,7 +1,7 @@
-from poseidon_constants import opt_c
-from poseidon_constants import opt_s
-from poseidon_constants import opt_m
-from poseidon_constants import opt_p
+from circomlibpy.poseidon_constants import opt_c
+from circomlibpy.poseidon_constants import opt_s
+from circomlibpy.poseidon_constants import opt_m
+from circomlibpy.poseidon_constants import opt_p
 
 MODUL = 21888242871839275222246405745257275088548364400416034343698204186575808495617
 N_ROUNDS_F = 8

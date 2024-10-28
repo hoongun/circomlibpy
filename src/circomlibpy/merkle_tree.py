@@ -1,4 +1,4 @@
-from poseidon import PoseidonHash
+from circomlibpy.poseidon import PoseidonHash
 
 
 class MerkleTree:
